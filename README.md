@@ -6,4 +6,4 @@ Sou um estudante de desenvolvimento de sistemas na ETEC Professor Camargo Aranha
 JavaScript básico <br>
 Organização e código limpo
 
-Sobre minha vida pessoal, eu gosto muito de escutar músic e ver séries, especialmente sci-fi.
+Sobre minha vida pessoal, eu gosto muito de escutar música e ver séries, especialmente sci-fi.
