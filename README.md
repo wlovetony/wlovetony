@@ -1,6 +1,6 @@
 Oie, bem vindo(a)!
 
-Sou um estudante de desenvolvimento de sistemas na ETEC Professor Camargo Aranha, atualmente no segundo ano. Foco meu aprendizado em HTML, CSS e JavaScript, buscando aprimorar minhas habilidades na área front-end a cada dia.
+Sou um estudante de desenvolvimento de sistemas na ETEC Professor Camargo Aranha, atualmente no terceiro ano. Foco meu aprendizado em HTML, CSS e JavaScript, buscando aprimorar minhas habilidades na área front-end a cada dia.
 
 💻 Atualmente Aprendendo <br>
 JavaScript básico <br>
